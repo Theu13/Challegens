@@ -1,14 +1,11 @@
 /*
-
 Challenge: Check if the number written is even or odd.
-Des: Input a number to determine if it is even or odd.
+Description: Input a number to determine if it is even or odd.
 Concepts used: if-else, while
 Date: march/2026
-
  */
 
-
-package Level_1
+package level_1
 
 fun main() {
 
