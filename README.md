@@ -3,7 +3,7 @@
 A collection of practical Kotlin challenges, organized by creation order.  
 Each challenge reflects what I'm currently learning. Follow my progress through the commit history.
 
-![Challenges](https://img.shields.io/badge/Challenges%20Completed-3-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Challenges](https://img.shields.io/badge/Challenges%20Completed-4-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 ## About
 
