@@ -17,7 +17,7 @@ fun main(args: Array<String>) {
 
 fun primeTest(num:Int) {
     if (num == 1 || num == 2 || num == 3 || num == 5 || num == 7) {
-        println("The number $num is a prime number.5")
+        println("The number $num is a prime number.")
     } else if (num % 2 == 0) {
         println("Number is not a prime number.")
     } else if (num % 3 == 0) {
