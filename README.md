@@ -3,7 +3,21 @@
 A collection of practical Kotlin challenges, organized by creation order.  
 Each challenge reflects what I'm currently learning. Follow my progress through the commit history.
 
-![Challenges](https://img.shields.io/badge/Challenges%20Completed-4-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+
+Challenge Completed:
+
+![Challenges](https://img.shields.io/badge/Level%201-8-FFFFF?style=flat-square&logo=kotlin&logoColor=white)
+![Challenges](https://img.shields.io/badge/Level%202-0-FFFF00?style=flat-square&logo=kotlin&logoColor=white)
+![Challenges](https://img.shields.io/badge/Level%203-0-00BFFF?style=flat-square&logo=kotlin&logoColor=white)
+![Challenges](https://img.shields.io/badge/Level%204-0-FF6347?style=flat-square&logo=kotlin&logoColor=white)
+![Challenges](https://img.shields.io/badge/Level%20++-0-DCDCDC?style=flat-square&logo=kotlin&logoColor=white)
+
+Levei 1 - Variables, conditionals, loops, basic functions.  
+Level 2 - List, Map, Set, filter, map, reduce, groupBy.  
+Level 3 - Classes, inheritance, interfaces, data classes.  
+Level 4 - Suspend functions, launch, async/await, Flow.  
+Level ++ - Bringing it all together - logic + OO + collections + coroutines.  
 
 ## About
 
