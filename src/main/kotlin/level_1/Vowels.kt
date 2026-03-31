@@ -1,7 +1,7 @@
 /*
-Challenge: .
-Description: .
-Concepts used:
+Challenge: How many vowels has in a string.
+Description: Input a string and check how many vowels it has.
+Concepts used: fun, input;
 Date: march/2026
  */
 
@@ -23,7 +23,6 @@ fun vowels(string:String) : Int {
         if (string[i] == 'a' || string[i] == 'e' || string[i] == 'i' || string[i] == 'o' || string[i] == 'u') {
             quantity++
         }
-
     }
 
     return quantity
