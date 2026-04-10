@@ -8,7 +8,7 @@ Each challenge reflects what I'm currently learning. Follow my progress through 
 Challenge Completed:
 
 ![Challenges](https://img.shields.io/badge/Level%201-10-FFFFF?style=flat-square&logo=kotlin&logoColor=white)
-![Challenges](https://img.shields.io/badge/Level%202-0-FFFF00?style=flat-square&logo=kotlin&logoColor=white)
+![Challenges](https://img.shields.io/badge/Level%202-3-FFFF00?style=flat-square&logo=kotlin&logoColor=white)
 ![Challenges](https://img.shields.io/badge/Level%203-0-00BFFF?style=flat-square&logo=kotlin&logoColor=white)
 ![Challenges](https://img.shields.io/badge/Level%204-0-FF6347?style=flat-square&logo=kotlin&logoColor=white)
 ![Challenges](https://img.shields.io/badge/Level%20++-0-DCDCDC?style=flat-square&logo=kotlin&logoColor=white)
